@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Class-Path: httpcore-4.4.6.jar ant-1.9.6.jar selenium-support-3.4.0.ja
+ r sac-1.3.jar htmlunit-driver-2.26.jar opencv-3.2.0-1.jar spring-bean
+ s-4.3.8.RELEASE.jar spring-context-4.3.8.RELEASE.jar commons-beanutil
+ s-1.9.2.jar serializer-2.7.2.jar xalan-2.7.2.jar websocket-api-9.4.3.
+ v20170317.jar commons-lang3-3.5.jar websocket-common-9.4.3.v20170317.
+ jar selenium-edge-driver-3.4.0.jar selenium-remote-driver-3.4.0.jar h
+ ttpclient-4.5.3.jar jna-platform-4.1.0.jar xml-apis-1.4.01.jar dom4j-
+ 2.1.0.jar selenium-java-3.4.0.jar commons-codec-1.10.jar jna-4.1.0.ja
+ r spring-aop-4.3.8.RELEASE.jar jetty-util-9.4.1.v20170120.jar htmluni
+ t-core-js-2.26.jar aspectjweaver-1.8.10.jar hamcrest-core-1.3.jar xer
+ cesImpl-2.11.0.jar jetty-http-9.4.3.v20170317.jar htmlunit-2.26.jar j
+ unit-4.12.jar ant-launcher-1.9.6.jar java-client-5.0.0-BETA8.jar comm
+ ons-io-2.5.jar cglib-nodep-3.2.4.jar selenium-safari-driver-3.4.0.jar
+  gson-2.8.0.jar cssparser-0.9.22.jar httpmime-4.5.3.jar commons-valid
+ ator-1.6.jar selenium-chrome-driver-3.4.0.jar javax.servlet-api-3.1.0
+ .jar jaxen-1.1.6.jar selenium-ie-driver-3.4.0.jar asm-5.2.jar seleniu
+ m-firefox-driver-3.4.0.jar jnetpcap.jar phantomjsdriver-1.4.0.jar jet
+ ty-client-9.4.3.v20170317.jar commons-digester-1.8.1.jar guava-21.0.j
+ ar selenium-opera-driver-3.4.0.jar spring-expression-4.3.8.RELEASE.ja
+ r spring-core-4.3.8.RELEASE.jar commons-exec-1.3.jar selenium-api-3.4
+ .0.jar jetty-io-9.4.1.v20170120.jar neko-htmlunit-2.25.jar commons-lo
+ gging-1.2.jar websocket-client-9.4.3.v20170317.jar cglib-3.2.5.jar co
+ mmons-collections-3.2.2.jar images.jar
+Main-Class: captureProgram.GUICode.CaptureGUI
+

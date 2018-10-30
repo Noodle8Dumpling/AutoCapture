@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+Class-Path: libs/jetty-io-9.4.1.v20170120.jar libs/cglib-3.2.5.jar lib
+ s/websocket-api-9.4.3.v20170317.jar libs/htmlunit-2.26.jar libs/selen
+ ium-safari-driver-3.4.0.jar libs/commons-validator-1.6.jar libs/jna-p
+ latform-4.1.0.jar libs/cglib-nodep-3.2.4.jar libs/ant-1.9.6.jar libs/
+ selenium-chrome-driver-3.4.0.jar libs/selenium-support-3.4.0.jar libs
+ /jetty-util-9.4.1.v20170120.jar libs/commons-lang3-3.5.jar libs/commo
+ ns-logging-1.2.jar libs/commons-exec-1.3.jar libs/jetty-client-9.4.3.
+ v20170317.jar libs/laf-widget-7.3.jar libs/spring-expression-4.3.8.RE
+ LEASE.jar libs/asm-5.2.jar libs/selenium-firefox-driver-3.4.0.jar lib
+ s/dom4j-2.1.0.jar libs/commons-collections-3.2.2.jar libs/httpcore-4.
+ 4.6.jar libs/xml-apis-1.4.01.jar libs/selenium-edge-driver-3.4.0.jar 
+ libs/hamcrest-core-1.3.jar libs/selenium-remote-driver-3.4.0.jar libs
+ /neko-htmlunit-2.25.jar libs/jna-4.1.0.jar libs/websocket-common-9.4.
+ 3.v20170317.jar libs/httpmime-4.5.3.jar libs/spring-aop-4.3.8.RELEASE
+ .jar libs/gson-2.8.0.jar libs/ant-launcher-1.9.6.jar libs/selenium-op
+ era-driver-3.4.0.jar libs/commons-codec-1.10.jar libs/selenium-ie-dri
+ ver-3.4.0.jar libs/java-client-5.0.0-BETA8.jar libs/trident-7.3-swing
+ .jar libs/spring-beans-4.3.8.RELEASE.jar libs/jetty-http-9.4.3.v20170
+ 317.jar libs/htmlunit-driver-2.26.jar libs/opencv-3.2.0-1.jar libs/se
+ rializer-2.7.2.jar libs/xercesImpl-2.11.0.jar libs/spring-core-4.3.8.
+ RELEASE.jar libs/junit-4.12.jar libs/cssparser-0.9.22.jar libs/guava-
+ 21.0.jar libs/phantomjsdriver-1.4.0.jar libs/substance-7.3.jar libs/c
+ ommons-digester-1.8.1.jar libs/xalan-2.7.2.jar libs/spring-context-4.
+ 3.8.RELEASE.jar libs/sac-1.3.jar libs/websocket-client-9.4.3.v2017031
+ 7.jar libs/commons-io-2.5.jar libs/laf-plugin-7.3.jar libs/jaxen-1.1.
+ 6.jar libs/httpclient-4.5.3.jar libs/selenium-java-3.4.0.jar libs/com
+ mons-beanutils-1.9.2.jar libs/javax.servlet-api-3.1.0.jar libs/htmlun
+ it-core-js-2.26.jar libs/selenium-api-3.4.0.jar libs/aspectjweaver-1.
+ 8.10.jar libs/jnetpcap.jar
+Main-Class: captureProgram.GUICode.CaptureGUI
+

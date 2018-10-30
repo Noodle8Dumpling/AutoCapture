@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+Class-Path: libs/j2objc-annotations-1.1.jar libs/commons-digester-1.8.
+ 1.jar libs/ant-1.9.6.jar libs/selenium-firefox-driver-3.5.3.jar libs/
+ animal-sniffer-annotations-1.14.jar libs/spring-expression-4.3.10.REL
+ EASE.jar libs/error_prone_annotations-2.0.18.jar libs/commons-beanuti
+ ls-1.9.2.jar libs/spring-context-4.3.10.RELEASE.jar libs/asm-5.2.jar 
+ libs/jnetpcap.jar libs/cglib-3.2.5.jar libs/sac-1.3.jar libs/junit-4.
+ 12.jar libs/jna-4.1.0.jar libs/phantomjsdriver-1.4.0.jar libs/commons
+ -exec-1.3.jar libs/jna-platform-4.1.0.jar libs/serializer-2.7.2.jar l
+ ibs/htmlunit-driver-2.27.jar libs/commons-validator-1.6.jar libs/comm
+ ons-collections-3.2.2.jar libs/spring-beans-4.3.10.RELEASE.jar libs/s
+ pring-aop-4.3.10.RELEASE.jar libs/httpclient-4.5.3.jar libs/selenium-
+ api-3.5.3.jar libs/cssparser-0.9.23.jar libs/ant-launcher-1.9.6.jar l
+ ibs/websocket-api-9.4.5.v20170502.jar libs/javax.servlet-api-3.1.0.ja
+ r libs/opencv-3.2.0-1.jar libs/guava-23.0.jar libs/jetty-io-9.4.5.v20
+ 170502.jar libs/selenium-chrome-driver-3.5.3.jar libs/java-client-5.0
+ .3.jar libs/selenium-safari-driver-3.5.3.jar libs/jsr305-1.3.9.jar li
+ bs/commons-io-2.5.jar libs/jetty-http-9.4.5.v20170502.jar libs/htmlun
+ it-core-js-2.27.jar libs/jetty-client-9.4.5.v20170502.jar libs/httpmi
+ me-4.5.3.jar libs/spring-core-4.3.10.RELEASE.jar libs/selenium-ie-dri
+ ver-3.5.3.jar libs/xalan-2.7.2.jar libs/selenium-support-3.5.3.jar li
+ bs/dom4j-2.1.0.jar libs/cglib-nodep-3.2.4.jar libs/selenium-edge-driv
+ er-3.5.3.jar libs/selenium-opera-driver-3.5.3.jar libs/commons-codec-
+ 1.10.jar libs/selenium-java-3.5.3.jar libs/gson-2.8.1.jar libs/common
+ s-logging-1.2.jar libs/commons-lang3-3.6.jar libs/htmlunit-2.27.jar l
+ ibs/xercesImpl-2.11.0.jar libs/jaxen-1.1.6.jar libs/jetty-util-9.4.5.
+ v20170502.jar libs/selenium-remote-driver-3.5.3.jar libs/hamcrest-cor
+ e-1.3.jar libs/websocket-common-9.4.5.v20170502.jar libs/neko-htmluni
+ t-2.27.jar libs/xml-apis-1.4.01.jar libs/websocket-client-9.4.5.v2017
+ 0502.jar libs/httpcore-4.4.6.jar
+Main-Class: capture.main.Automation_V2
+
